@@ -1,0 +1,9 @@
+C:\Users\SIlviya\OneDrive\Projects\Graphics\Cartoon\Cartoon\bin\Debug\Cartoon.exe
+C:\Users\SIlviya\OneDrive\Projects\Graphics\Cartoon\Cartoon\bin\Debug\Cartoon.pdb
+C:\Users\SIlviya\OneDrive\Projects\Graphics\Cartoon\Cartoon\obj\x86\Debug\WindowsApplication1.frmMain.resources
+C:\Users\SIlviya\OneDrive\Projects\Graphics\Cartoon\Cartoon\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\SIlviya\OneDrive\Projects\Graphics\Cartoon\Cartoon\obj\x86\Debug\Cartoon.vbproj.GenerateResource.Cache
+C:\Users\SIlviya\OneDrive\Projects\Graphics\Cartoon\Cartoon\obj\x86\Debug\Cartoon.exe
+C:\Users\SIlviya\OneDrive\Projects\Graphics\Cartoon\Cartoon\obj\x86\Debug\Cartoon.pdb
+C:\Users\SIlviya\OneDrive\Projects\Graphics\Cartoon\Cartoon\bin\Debug\Cartoon.xml
+C:\Users\SIlviya\OneDrive\Projects\Graphics\Cartoon\Cartoon\obj\x86\Debug\Cartoon.xml
